@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AgendaMedica</string>
+    <string name="title_activity_crear_cita">CrearCita</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="title_activity_ver_citas_detalladas">VerCitasDetalladas</string>
+    <string name="title_activity_detalles_cita">detallesCita</string>
+</resources>

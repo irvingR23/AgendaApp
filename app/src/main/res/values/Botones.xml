@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn1">Crear Cita</string>
+    <string name="btn2">Editar Citas</string>
+    <string name="btn3">Ver Citas</string>
+    <string name="btn4">Borrar Citas </string>
+    <string name="btn5">Mis Medicamentos</string>
+    <string name="btncrear">Crear</string>
+</resources>

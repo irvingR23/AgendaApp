@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="citasRecientes">Citas dentro de los siguientes 2 dias</string>
+    <string name="atras">Volver</string>
+    <string name="textoNombreCita">Nombre:</string>
+    <string name="textoDescripcionCita">Descripcion:</string>
+    <string name="textoNombreDoctor">Nombre Medico:</string>
+    <string name="sugerenciaNombre">Nombre de la cita</string>
+    <string name="sugerenciaDescripcion">Descripcion de la cita</string>
+    <string name="sugerenciaNombreDoctor">Nombre del medico</string>
+    <string name="textoLunes">Lunes</string>
+    <string name="textoMartes">Martes</string>
+    <string name="textoMiercoles">Miercoles</string>
+    <string name="textoJueves">Jueves</string>
+    <string name="textoViernes">Viernes</string>
+    <string name="textoSabado">Sabado</string>
+    <string name="textoDomingo">Domingo</string>
+    <string name="off">PM</string>
+    <string name="on">AM</string>
+    <string name="ventanaCrear">Crear nueva Cita</string>
+    <string name="editarB">Editar</string>
+    <string name="editar">Editar Cita</string>
+    <string name="dc1">Detalles de la cita:</string>
+    <string name="dc2">Numero de Cita:</string>
+    <string name="dc3">Detalles:</string>
+    <string name="dch1">Detalles de la cita </string>
+    <string name="dc4">Medicina:</string>
+    <string name="dch2">El nombre de la medicina</string>
+    <string name="dci">Un cuadro nocturno de una ciudad</string>
+</resources>
